@@ -17,3 +17,11 @@ Step 7: Commit your changes by writing a summary of the changes you made in the 
 and clicking on the "Commit" button in the bottom left corner of the screen.
 Step 8: Push your changes to Github by clicking on the "Push origin" button in the top right corner of
 the screen.
+#About me
+##My Interests
+- Going to the gym on a daily basis.
+- Going on hikes around North Carolina trails
+- Cooking various styles of food originating from different countries.
+##Websites I recommend
+- [Britannica](https://www.britannica.com) - I find Britannica to be a reliable and trustworthy source for researching a topic. Britannica is useful to gain insights on a subject I know little about but want to gain a background on.
+- [Youtube](https://www.youtube.com) - Youtube allows me to research a topic in depth and learn the steps in completing a task. The videos on Youtube allow me to understand the different methods in which a task can be completed.
