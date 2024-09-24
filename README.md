@@ -19,6 +19,7 @@ Step 8: Push your changes to Github by clicking on the "Push origin" button in t
 the screen.
 
 #About me
+
 ##My Interests
 - Going to the gym on a daily basis.
 - Going on hikes around North Carolina trails
