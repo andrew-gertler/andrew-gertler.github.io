@@ -17,6 +17,7 @@ Step 7: Commit your changes by writing a summary of the changes you made in the 
 and clicking on the "Commit" button in the bottom left corner of the screen.
 Step 8: Push your changes to Github by clicking on the "Push origin" button in the top right corner of
 the screen.
+
 #About me
 ##My Interests
 - Going to the gym on a daily basis.
